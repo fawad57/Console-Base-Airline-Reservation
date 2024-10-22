@@ -1,0 +1,61 @@
+|TICKET INFORMATION:
+
+Name: Fawad Humayun
+Phone: 03169100774
+Address: Islamabad,1039
+Passport Number: 
+Origin: ISLAMABAD
+Destination: KARACHI
+Food: Vegetarian
+Number of Seats: 1
+Class: Business
+Date of departure: 11052023
+Time: 19:00 PM
+Ticket: HF858
+Bill(in pakistani rupees): 17000/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: NO
+
+|TICKET INFORMATION:
+
+Name: Fawad Humayun
+Phone: 12345678
+Address: islamabad,1039
+Passport Number: 
+Origin: LAHORE
+Destination: ISLAMABAD
+Food: Non Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 13052023
+Time: 15:00 PM
+Ticket: HF88
+Bill(in pakistani rupees): 29000/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: NO|TICKET INFORMATION:
+
+Name: Fawad Humayun
+Phone: 03159000774
+Address: islamabad
+Passport Number: 
+Origin: ISLAMABAD
+Destination: KARACHI
+Food: Vegetarian
+Number of Seats: 1
+Class: Business
+Date of departure: 17112023
+Time: 23:00 PM
+Ticket: HF990
+Bill(in pakistani rupees): 17000/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: YES
+
+Pickup Location: KARACHI
+Drop Off: ISLAMABAD Airport
+Fare: 300/-
